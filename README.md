@@ -1,6 +1,6 @@
 # Technology and Communication
 
-I'm a software engineer and API specialist with special interests in open source and writing words about technology.
+I'm a software engineer, Developer Experience specialist and API tooling expert, with special interests in open source and writing words about technology.
 
 ## Highlights
 
