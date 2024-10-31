@@ -1,10 +1,13 @@
-<img src="https://raw.githubusercontent.com/lornajane/lornajane/master/20200718_124422_0000.png" alt="Image says: Dreaming of CODE" >
+# Technology and Communication
 
-Hi, I'm Lorna. I love APIs, scripting languages, and learning new things. I'm also passionate about open source and about sharing what I know with others! I am a project maintainer, published author, blogger and conference speaker.
+I'm a software engineer and API specialist with special interests in open source and writing words about technology.
 
-Around the web:
- - :earth_africa: <https://lornajane.net>
- - :bird: <https://twitter.com/lornajane>
- - :tv: <https://twitch.tv/lornajanetv>
+## Highlights
 
-Questions and contributions always taken seriously, tech support always available.
+I'm a published author, check out my titles on [O'Reilly](https://www.oreilly.com/pub/au/5174) and [LeanPub](https://leanpub.com/u/lornajane). In between books I blog at <https://lornajane.net>.
+
+I maintain [OpenAPI](https://www.openapis.org/) as a member of the Technical Steering Committee. Check out the [main OpenAPI project](https://github.com/OAI/OpenAPI-Specification/), the [Overlays project](https://github.com/OAI/Overlay-Specification) and the documentation site [learn.openapis.org](https://learn.openapis.org).
+
+I also maintain [rst2pdf](https://github.com/rst2pdf/rst2pdf); a tool that takes markup and produces presentation PDFs in an instant.
+
+Board member at [OpenUK](https://openuk.uk).
